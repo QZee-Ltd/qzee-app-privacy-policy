@@ -1,7 +1,5 @@
 # Privacy Policy
 
-Last updated: [Insert Date]
-
 ## Introduction
 
 Welcome to [Your App Name]'s Privacy Policy. This policy outlines how we collect, use, and protect your personal information when you use our app.
@@ -24,7 +22,7 @@ We use the information we collect in various ways, including:
 
 ## How We Store Your Information
 
-Your information is securely stored at [location or method of storage].
+Your information is securely stored using AWS.
 
 We will retain your personal data only for as long as is necessary for the purposes set out in this Privacy Policy.
 
@@ -32,7 +30,6 @@ We will retain your personal data only for as long as is necessary for the purpo
 
 We do not share or sell your personal data to third parties for marketing purposes. We may share your information in the following situations:
 
-- With service providers who perform services for us.
 - If required by law.
 
 ## Your Data Protection Rights
@@ -51,5 +48,4 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 
 If you have any questions or concerns about this Privacy Policy, please contact us at:
 
-- Email: [Your Email Address]
-- Phone: [Your Phone Number]
+- Email: info@qzee.app
