@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to [Your App Name]'s Privacy Policy. This policy outlines how we collect, use, and protect your personal information when you use our app.
+Welcome to QZee's Customer Web App Privacy Policy. This policy outlines how we collect, use, and protect your personal information when you use our app.
 
 ## Information We Collect
 
@@ -22,7 +22,7 @@ We use the information we collect in various ways, including:
 
 ## How We Store Your Information
 
-Your information is securely stored using AWS.
+Your information is securely stored using AWS and MongoDB.
 
 We will retain your personal data only for as long as is necessary for the purposes set out in this Privacy Policy.
 
